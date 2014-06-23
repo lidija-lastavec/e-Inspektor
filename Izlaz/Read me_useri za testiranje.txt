@@ -1,0 +1,18 @@
+Ulazna korisnicka imena i zaporke za testiranje (prijedlog):
+
+Porezni obveznik:
+
+			test	123
+			test1	456
+
+Administrator PU:
+
+			VNovak	admin1
+			SVuk	admin2
+
+Referenti PU:
+			ASitar	ref1
+			ZSlunj	ref2
+			AHorvat	ref 3
+
+
