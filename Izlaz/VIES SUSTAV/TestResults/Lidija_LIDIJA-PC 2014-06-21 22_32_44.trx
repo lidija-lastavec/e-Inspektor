@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="86497676-1b22-4ec0-be8a-d1467431bc73" name="Lidija@LIDIJA-PC 2014-06-21 22:32:44" runUser="LIDIJA-PC\Lidija" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="9379125b-6681-401e-b0dc-35fd12f1e0b9">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Lidija_LIDIJA-PC 2014-06-21 22_32_44" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-06-21T22:32:44.8453184+02:00" queuing="2014-06-21T22:32:49.3017264+02:00" start="2014-06-21T22:32:50.2330656+02:00" finish="2014-06-21T22:33:32.0131424+02:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="2" executed="2" passed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="c:\documents and settings\lidija.lidija-pc\desktop\verzije_coda\završna_ novo_vies sustav_code 21.06.2014\vies sustav\vies testiranje\bin\debug\vies testiranje.dll" id="0ae8d3f0-27e2-9469-68c0-bc66555eda8d">
+      <Execution id="8b23e939-b1a6-4d00-9762-740e1f548edb" />
+      <TestMethod codeBase="C:/Documents and Settings/Lidija.LIDIJA-PC/Desktop/Verzije_coda/Završna_ Novo_VIES SUSTAV_code 21.06.2014/VIES SUSTAV/VIES testiranje/bin/Debug/VIES testiranje.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="VIES_testiranje.UnitTest1, VIES testiranje, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+    <UnitTest name="CodedUITestMethod1" storage="c:\documents and settings\lidija.lidija-pc\desktop\verzije_coda\završna_ novo_vies sustav_code 21.06.2014\vies sustav\vies testiranje\bin\debug\vies testiranje.dll" id="6aca3527-4191-3f13-621b-55719c6adebc">
+      <Execution id="8d8cd78b-12ad-484d-8833-f3a33ea938c0" />
+      <TestMethod codeBase="C:/Documents and Settings/Lidija.LIDIJA-PC/Desktop/Verzije_coda/Završna_ Novo_VIES SUSTAV_code 21.06.2014/VIES SUSTAV/VIES testiranje/bin/Debug/VIES testiranje.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="VIES_testiranje.CodedUITest1, VIES testiranje, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CodedUITestMethod1" />
+      <Extension>Microsoft.VisualStudio.TestTools.UITesting.CodedUITestAttribute, Microsoft.VisualStudio.QualityTools.CodedUITestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Extension>
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="0ae8d3f0-27e2-9469-68c0-bc66555eda8d" executionId="8b23e939-b1a6-4d00-9762-740e1f548edb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6aca3527-4191-3f13-621b-55719c6adebc" executionId="8d8cd78b-12ad-484d-8833-f3a33ea938c0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="8b23e939-b1a6-4d00-9762-740e1f548edb" testId="0ae8d3f0-27e2-9469-68c0-bc66555eda8d" testName="TestMethod1" computerName="LIDIJA-PC" duration="00:00:00.0678049" startTime="2014-06-21T22:32:50.9340736+02:00" endTime="2014-06-21T22:32:56.4620224+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8b23e939-b1a6-4d00-9762-740e1f548edb">
+    </UnitTestResult>
+    <UnitTestResult executionId="8d8cd78b-12ad-484d-8833-f3a33ea938c0" testId="6aca3527-4191-3f13-621b-55719c6adebc" testName="CodedUITestMethod1" computerName="LIDIJA-PC" duration="00:00:34.2875424" startTime="2014-06-21T22:32:56.5120944+02:00" endTime="2014-06-21T22:33:31.1619184+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8d8cd78b-12ad-484d-8833-f3a33ea938c0">
+      <Output>
+        <DebugTrace>W, 6000, 28, 2014/06/21, 22:33:05.665, 154384308518, QTAgent32.exe, Playback - [WARNING] Internal warning: Window Not Found: [VisibleOnly]ControlType='Window' &amp;&amp; Name='Prijava poreznog obveznika' &amp;&amp; ClassName=&gt;'WindowsForms10.Window'
+\0
+E, 6000, 28, 2014/06/21, 22:33:05.665, 154384324378, QTAgent32.exe, &lt;a class=failure&gt;Playback - {1} [FAILED] Function ElementFetcher::FindScreenElement failed to locate UI element (Searching: ;[VisibleOnly]ControlType='Window' &amp;&amp; Name='Prijava poreznog obveznika' &amp;&amp; ClassName=&gt;'WindowsForms10.Window') (The object specified was not found.)
+\0&lt;/a&gt;
+E, 6000, 28, 2014/06/21, 22:33:05.865, 154385029911, QTAgent32.exe, Playback - [IMAGE] C:\Documents and Settings\Lidija.LIDIJA-PC\Local Settings\Temp\UITestLogs\LastRun\RPF250.png
+\0
+W, 6000, 28, 2014/06/21, 22:33:05.865, 154385031986, QTAgent32.exe, Playback - [WARNING] Internal warning: Couldn't find descendants that match QueryId
+\0
+W, 6000, 28, 2014/06/21, 22:33:05.865, 154385038333, QTAgent32.exe, PERF WARNING: FindTopLevelWindowHelper::FindAllDescendents: took 6974 ms. Expected it to take maximum 500 ms.
+W, 6000, 28, 2014/06/21, 22:33:24.382, 154451310081, QTAgent32.exe, Playback - [WARNING] Internal warning: Window Not Found: [VisibleOnly]ControlType='Window' &amp;&amp; Name='Prijava poreznog obveznika' &amp;&amp; ClassName=&gt;'WindowsForms10.Window'
+\0
+E, 6000, 28, 2014/06/21, 22:33:24.382, 154451312995, QTAgent32.exe, &lt;a class=failure&gt;Playback - {2} [FAILED] Function ElementFetcher::FindScreenElement failed to locate UI element (Searching: ;[VisibleOnly]ControlType='Window' &amp;&amp; Name='Prijava poreznog obveznika' &amp;&amp; ClassName=&gt;'WindowsForms10.Window') (The object specified was not found.)
+\0&lt;/a&gt;
+E, 6000, 28, 2014/06/21, 22:33:24.582, 154452017169, QTAgent32.exe, Playback - [IMAGE] C:\Documents and Settings\Lidija.LIDIJA-PC\Local Settings\Temp\UITestLogs\LastRun\RPF251.png
+\0
+W, 6000, 28, 2014/06/21, 22:33:24.582, 154452019246, QTAgent32.exe, Playback - [WARNING] Internal warning: Couldn't find descendants that match QueryId
+\0
+W, 6000, 28, 2014/06/21, 22:33:24.582, 154452022721, QTAgent32.exe, PERF WARNING: FindTopLevelWindowHelper::FindAllDescendents: took 18704 ms. Expected it to take maximum 500 ms.
+W, 6000, 28, 2014/06/21, 22:33:26.415, 154458583256, QTAgent32.exe, Playback - [WARNING] Internal warning: Smart Match failed
+\0
+W, 6000, 28, 2014/06/21, 22:33:29.860, 154470919785, QTAgent32.exe, Playback - [WARNING] Internal warning: Window Not Found: [VisibleOnly]ControlType='Window' &amp;&amp; Name='Prijava poreznog obveznika' &amp;&amp; ClassName=&gt;'WindowsForms10.Window'
+\0
+E, 6000, 28, 2014/06/21, 22:33:29.860, 154470922711, QTAgent32.exe, &lt;a class=failure&gt;Playback - {3} [FAILED] Function ElementFetcher::FindScreenElement failed to locate UI element (Searching: ;[VisibleOnly]ControlType='Window' &amp;&amp; Name='Prijava poreznog obveznika' &amp;&amp; ClassName=&gt;'WindowsForms10.Window') (The object specified was not found.)
+\0&lt;/a&gt;
+E, 6000, 28, 2014/06/21, 22:33:30.060, 154471625224, QTAgent32.exe, Playback - [IMAGE] C:\Documents and Settings\Lidija.LIDIJA-PC\Local Settings\Temp\UITestLogs\LastRun\RPF252.png
+\0
+W, 6000, 28, 2014/06/21, 22:33:30.060, 154471627230, QTAgent32.exe, Playback - [WARNING] Internal warning: Couldn't find descendants that match QueryId
+\0
+W, 6000, 28, 2014/06/21, 22:33:30.060, 154471630683, QTAgent32.exe, PERF WARNING: FindTopLevelWindowHelper::FindAllDescendents: took 5476 ms. Expected it to take maximum 500 ms.
+E, 6000, 28, 2014/06/21, 22:33:30.070, 154471650213, QTAgent32.exe, Exception: System.Runtime.InteropServices.COMException
+	Message: Error HRESULT E_FAIL has been returned from a call to a COM component.
+	Stack Trace:    at Microsoft.VisualStudio.TestTools.UITest.Playback.Engine.IRPFPlayback.FindAllScreenElements(IScreenElement pScreenElementStart, String bstrQueryId, Object&amp; pvarResKeys, Int32 cResKeys, Int32 nMaxDepth, Object[]&amp; foundDescendants)
+   at Microsoft.VisualStudio.TestTools.UITest.Playback.ScreenElement.FindTopLevelWindowHelper(String queryId)
+	BaseExceptionMessage: Error HRESULT E_FAIL has been returned from a call to a COM component.
+
+W, 6000, 28, 2014/06/21, 22:33:30.500, 154473209283, QTAgent32.exe, PERF WARNING: CacheQueryId: took 156 ms. Expected it to take maximum 100 ms.
+E, 6000, 28, 2014/06/21, 22:33:30.831, 154474396299, QTAgent32.exe, AL: Playback Error: Microsoft.VisualStudio.TestTools.UITest.Extension.UITestControlNotFoundException: The playback failed to find the control with the given search properties. Additional Details: 
+TechnologyName:  'MSAA'
+ControlType:  'Window'
+Name:  'Prijava poreznog obveznika'
+ClassName:  'WindowsForms10.Window'
+ ---&gt; System.Runtime.InteropServices.COMException: Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Microsoft.VisualStudio.TestTools.UITest.Playback.Engine.IRPFPlayback.FindAllScreenElements(IScreenElement pScreenElementStart, String bstrQueryId, Object&amp; pvarResKeys, Int32 cResKeys, Int32 nMaxDepth, Object[]&amp; foundDescendants)
+   at Microsoft.VisualStudio.TestTools.UITest.Playback.ScreenElement.FindTopLevelWindowHelper(String queryId)
+   at Microsoft.VisualStudio.TestTools.UITest.Playback.ScreenElement.FindFromPartialQueryId(String queryId)
+   at Microsoft.VisualStudio.TestTools.UITesting.UITestControl..ctor(String queryId)
+   --- End of inner exception stack trace ---
+   at Microsoft.VisualStudio.TestTools.UITesting.Playback.MapControlNotFoundException(COMException ex, IPlaybackContext context)
+   at Microsoft.VisualStudio.TestTools.UITesting.Playback.MapAndThrowComException(COMException innerException, IPlaybackContext context)
+   at Microsoft.VisualStudio.TestTools.UITesting.Playback.MapAndThrowException(SystemException exception, IPlaybackContext context)
+   at Microsoft.VisualStudio.TestTools.UITesting.Playback.MapAndThrowException(SystemException exception, String queryId)
+   at Microsoft.VisualStudio.TestTools.UITesting.UITestControl..ctor(String queryId)
+   at Microsoft.VisualStudio.TestTools.UITesting.SearchHelper.SearchTopLevelWindow(ISearchArgument topLevelSearchArg, String topLevelElementQueryId)
+   at Microsoft.VisualStudio.TestTools.UITesting.SearchHelper.GetTitleUpdatedTopLevelWindow(ISearchArgument topLevelSearchArg, String queryId, IList`1 windowTitles)
+   at Microsoft.VisualStudio.TestTools.UITesting.SearchHelper.GetTopLevelElement(Boolean useCache, Boolean useCacheOnly, ISearchArgument searchArg, IList`1 windowTitles, Int32&amp; timeLeft)
+   at Microsoft.VisualStudio.TestTools.UITesting.SearchHelper.GetElement(Boolean useCache, ISearchArgument searchArg)
+   at Microsoft.VisualStudio.TestTools.UITesting.SearchHelper.Search(ISearchArgument searchArg)
+   at Microsoft.VisualStudio.TestTools.UITesting.UITestControl.FindInternal()
+   at Microsoft.VisualStudio.TestTools.UITesting.UITestControl.FindControlIfNecessary()
+   at Microsoft.VisualStudio.TestTools.UITesting.UITestControl.Click(MouseButtons button, ModifierKeys modifierKeys, Point relativeCoordinates)
+   at Microsoft.VisualStudio.TestTools.UITesting.Mouse.ClickImplementation(UITestControl control, MouseButtons button, ModifierKeys modifierKeys, Point relativeCoordinate)
+   at Microsoft.VisualStudio.TestTools.UITesting.Mouse.ClickImplementationWrapper(UITestControl control, MouseButtons button, ModifierKeys modifierKeys, Point relativeCoordinate)
+W, 6000, 28, 2014/06/21, 22:33:31.131, 154475481503, QTAgent32.exe, IEDOM : StopSession of the plugin called before StartSession
+W, 6000, 28, 2014/06/21, 22:33:31.131, 154475483032, QTAgent32.exe, UIA : StopSession of the plugin called before StartSession
+</DebugTrace>
+        <ErrorInfo>
+          <Message>Test method VIES_testiranje.CodedUITest1.CodedUITestMethod1 threw exception: 
+Microsoft.VisualStudio.TestTools.UITest.Extension.UITestControlNotFoundException: The playback failed to find the control with the given search properties. Additional Details: 
+TechnologyName:  'MSAA'
+ControlType:  'Window'
+Name:  'Prijava poreznog obveznika'
+ClassName:  'WindowsForms10.Window'
+ ---&gt; System.Runtime.InteropServices.COMException: Error HRESULT E_FAIL has been returned from a call to a COM component.</Message>
+          <StackTrace>    at Microsoft.VisualStudio.TestTools.UITest.Playback.Engine.IRPFPlayback.FindAllScreenElements(IScreenElement pScreenElementStart, String bstrQueryId, Object&amp; pvarResKeys, Int32 cResKeys, Int32 nMaxDepth, Object[]&amp; foundDescendants)
+   at Microsoft.VisualStudio.TestTools.UITest.Playback.ScreenElement.FindTopLevelWindowHelper(String queryId)
+   at Microsoft.VisualStudio.TestTools.UITest.Playback.ScreenElement.FindFromPartialQueryId(String queryId)
+   at Microsoft.VisualStudio.TestTools.UITesting.UITestControl..ctor(String queryId)
+ --- End of inner exception stack trace ---
+    at Microsoft.VisualStudio.TestTools.UITesting.Playback.MapControlNotFoundException(COMException ex, IPlaybackContext context)
+   at Microsoft.VisualStudio.TestTools.UITesting.Playback.MapAndThrowComException(COMException innerException, IPlaybackContext context)
+   at Microsoft.VisualStudio.TestTools.UITesting.Playback.MapAndThrowException(SystemException exception, IPlaybackContext context)
+   at Microsoft.VisualStudio.TestTools.UITesting.Playback.MapAndThrowException(SystemException exception, String queryId)
+   at Microsoft.VisualStudio.TestTools.UITesting.UITestControl..ctor(String queryId)
+   at Microsoft.VisualStudio.TestTools.UITesting.SearchHelper.SearchTopLevelWindow(ISearchArgument topLevelSearchArg, String topLevelElementQueryId)
+   at Microsoft.VisualStudio.TestTools.UITesting.SearchHelper.GetTitleUpdatedTopLevelWindow(ISearchArgument topLevelSearchArg, String queryId, IList`1 windowTitles)
+   at Microsoft.VisualStudio.TestTools.UITesting.SearchHelper.GetTopLevelElement(Boolean useCache, Boolean useCacheOnly, ISearchArgument searchArg, IList`1 windowTitles, Int32&amp; timeLeft)
+   at Microsoft.VisualStudio.TestTools.UITesting.SearchHelper.GetElement(Boolean useCache, ISearchArgument searchArg)
+   at Microsoft.VisualStudio.TestTools.UITesting.SearchHelper.Search(ISearchArgument searchArg)
+   at Microsoft.VisualStudio.TestTools.UITesting.UITestControl.FindInternal()
+   at Microsoft.VisualStudio.TestTools.UITesting.UITestControl.FindControlIfNecessary()
+   at Microsoft.VisualStudio.TestTools.UITesting.UITestControl.Click(MouseButtons button, ModifierKeys modifierKeys, Point relativeCoordinates)
+   at Microsoft.VisualStudio.TestTools.UITesting.Mouse.ClickImplementation(UITestControl control, MouseButtons button, ModifierKeys modifierKeys, Point relativeCoordinate)
+   at Microsoft.VisualStudio.TestTools.UITesting.Mouse.ClickImplementationWrapper(UITestControl control, MouseButtons button, ModifierKeys modifierKeys, Point relativeCoordinate)
+   at Microsoft.VisualStudio.TestTools.UITesting.Mouse.Click(UITestControl control, Point relativeCoordinate)
+   at VIES_testiranje.UIMap.UC101_PrijavaPoreznogObveznika() in C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES testiranje\UIMap.Designer.cs:line 47
+   at VIES_testiranje.CodedUITest1.CodedUITestMethod1() in C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES testiranje\CodedUITest1.cs:line 30
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+      <ResultFiles>
+        <ResultFile path="LIDIJA-PC\CodedUITestMethod1.png" />
+      </ResultFiles>
+      <ExtensionResult>Exception has been thrown by the target of an invocation.</ExtensionResult>
+    </UnitTestResult>
+  </Results>
+</TestRun>

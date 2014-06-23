@@ -1,0 +1,10 @@
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES testiranje\bin\Debug\VIES testiranje.dll
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES testiranje\bin\Debug\VIES testiranje.pdb
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES testiranje\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES testiranje\obj\Debug\VIES testiranje.dll
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES testiranje\obj\Debug\VIES testiranje.pdb
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES testiranje\bin\Debug\VIES testiranje.dll
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES testiranje\bin\Debug\VIES testiranje.pdb
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES testiranje\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES testiranje\obj\Debug\VIES testiranje.dll
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES testiranje\obj\Debug\VIES testiranje.pdb
