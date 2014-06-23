@@ -1,0 +1,166 @@
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\bin\Debug\VIES SUSTAV.exe
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\bin\Debug\VIES SUSTAV.pdb
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.frm_Osnovna.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.Properties.Resources.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES SUSTAV.exe
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES SUSTAV.pdb
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\bin\Debug\VIES SUSTAV.exe.config
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikPodrucniUredi.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikIspostava.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikDjelatnosti.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikZemalja.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikObveze.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikVlasnistva.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.ViesForms.frm_UnosNovogObveznika.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.ViesForms.frn_registarVIES.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.ViesForms.frm_detaljniPregled.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\My Documents\GitHub\RepositoryTeam27\Izlaz\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\bin\Debug\VIES SUSTAV.exe.config
+C:\Documents and Settings\Lidija.LIDIJA-PC\My Documents\GitHub\RepositoryTeam27\Izlaz\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES SUSTAV.exe
+C:\Documents and Settings\Lidija.LIDIJA-PC\My Documents\GitHub\RepositoryTeam27\Izlaz\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES SUSTAV.pdb
+C:\Documents and Settings\Lidija.LIDIJA-PC\My Documents\GitHub\RepositoryTeam27\Izlaz\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\bin\Debug\VIES SUSTAV.exe
+C:\Documents and Settings\Lidija.LIDIJA-PC\My Documents\GitHub\RepositoryTeam27\Izlaz\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\bin\Debug\VIES SUSTAV.pdb
+C:\Documents and Settings\Lidija.LIDIJA-PC\My Documents\GitHub\RepositoryTeam27\Izlaz\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Lidija.LIDIJA-PC\My Documents\GitHub\RepositoryTeam27\Izlaz\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.ViesForms.frm_detaljniPregled.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\My Documents\GitHub\RepositoryTeam27\Izlaz\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.ViesForms.frn_registarVIES.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\My Documents\GitHub\RepositoryTeam27\Izlaz\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.ViesForms.frm_unosNovogObveznika.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\My Documents\GitHub\RepositoryTeam27\Izlaz\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.frm_Osnovna.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\My Documents\GitHub\RepositoryTeam27\Izlaz\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.Properties.Resources.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\My Documents\GitHub\RepositoryTeam27\Izlaz\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikDjelatnosti.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\My Documents\GitHub\RepositoryTeam27\Izlaz\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikIspostava.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\My Documents\GitHub\RepositoryTeam27\Izlaz\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikObveze.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\My Documents\GitHub\RepositoryTeam27\Izlaz\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikPodrucniUredi.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\My Documents\GitHub\RepositoryTeam27\Izlaz\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikVlasnistva.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\My Documents\GitHub\RepositoryTeam27\Izlaz\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikZemalja.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\My Documents\GitHub\RepositoryTeam27\Izlaz\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Lidija.LIDIJA-PC\My Documents\GitHub\RepositoryTeam27\Izlaz\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Lidija.LIDIJA-PC\My Documents\GitHub\RepositoryTeam27\Izlaz\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_UnosVIES.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\My Documents\GitHub\RepositoryTeam27\Izlaz\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_PregledPdvS.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\My Documents\GitHub\RepositoryTeam27\Izlaz\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_unosPdvS.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\My Documents\GitHub\RepositoryTeam27\Izlaz\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_ProvjeraPDV_S.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\My Documents\GitHub\RepositoryTeam27\Izlaz\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_UnosZP.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\My Documents\GitHub\RepositoryTeam27\Izlaz\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_pregledZP.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\My Documents\GitHub\RepositoryTeam27\Izlaz\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_provjeraZP.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\My Documents\GitHub\RepositoryTeam27\Izlaz\VIES SUSTAV_code\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.frm_LogInPorezniObveznik.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\bin\Debug\VIES SUSTAV.exe.config
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES SUSTAV.exe
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES SUSTAV.pdb
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\bin\Debug\VIES SUSTAV.exe
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\bin\Debug\VIES SUSTAV.pdb
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.frm_GlavniForm.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.frm_LogInPorezniObveznik.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.ViesForms.frm_detaljniPregled.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.ViesForms.frn_registarVIES.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.ViesForms.frm_unosNovogObveznika.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_PregledPdvS.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_pregledZP.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_ProvjeraPDV_S.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_provjeraZP.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_unosPdvS.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_UnosVIES.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_UnosZP.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.Properties.Resources.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikDjelatnosti.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikIspostava.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikObveze.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikPodrucniUredi.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikVlasnistva.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikZemalja.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifaniciOsnovna.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.PretrazivanjeIkontrolaVIES.frm_pretrazivanjeVIES.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.PretrazivanjeIkontrolaVIES.frm_pregleVIES.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\bin\Debug\VIES SUSTAV.exe.config
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES SUSTAV.exe
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES SUSTAV.pdb
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\bin\Debug\VIES SUSTAV.exe
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\bin\Debug\VIES SUSTAV.pdb
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.frm_GlavniForm.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.frm_LogInPorezniObveznik.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.ViesForms.frm_detaljniPregled.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.ViesForms.frn_registarVIES.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.ViesForms.frm_unosNovogObveznika.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.PretrazivanjeIkontrolaVIES.frm_pretrazivanjeVIES.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.PretrazivanjeIkontrolaVIES.frm_pregleVIES.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifaniciOsnovna.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_PregledPdvS.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_pregledZP.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_ProvjeraPDV_S.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_provjeraZP.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_unosPdvS.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_UnosVIES.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_UnosZP.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.Properties.Resources.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikDjelatnosti.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikIspostava.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikObveze.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikPodrucniUredi.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikVlasnistva.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikZemalja.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\bin\Debug\VIES SUSTAV.exe.config
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES SUSTAV.exe
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES SUSTAV.pdb
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\bin\Debug\VIES SUSTAV.exe
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\bin\Debug\VIES SUSTAV.pdb
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.frm_GlavniForm.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.frm_LogInPorezniObveznik.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.ViesForms.frm_detaljniPregled.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.ViesForms.frn_registarVIES.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.ViesForms.frm_unosNovogObveznika.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.PretrazivanjeIkontrolaVIES.frm_pretrazivanjeVIES.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.PretrazivanjeIkontrolaVIES.frm_pregleVIES.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifaniciOsnovna.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_PregledPdvS.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_pregledZP.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_ProvjeraPDV_S.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_provjeraZP.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_unosPdvS.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_UnosVIES.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_UnosZP.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.Properties.Resources.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikDjelatnosti.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikIspostava.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikObveze.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikPodrucniUredi.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikVlasnistva.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikZemalja.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Verzije_coda\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\bin\Debug\VIES SUSTAV.exe.config
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES SUSTAV.exe
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES SUSTAV.pdb
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\bin\Debug\VIES SUSTAV.exe
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\bin\Debug\VIES SUSTAV.pdb
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.frm_GlavniForm.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.frm_LogInPorezniObveznik.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.ViesForms.frm_detaljniPregled.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.ViesForms.frn_registarVIES.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.ViesForms.frm_unosNovogObveznika.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.PretrazivanjeIkontrolaVIES.frm_pretrazivanjeVIES.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.PretrazivanjeIkontrolaVIES.frm_pregleVIES.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifaniciOsnovna.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_PregledPdvS.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_pregledZP.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_ProvjeraPDV_S.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_provjeraZP.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_unosPdvS.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_UnosVIES.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.VIESForms.frm_UnosZP.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.Properties.Resources.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikDjelatnosti.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikIspostava.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikObveze.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikPodrucniUredi.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikVlasnistva.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\VIES_SUSTAV.SifarniciForms.frm_sifarnikZemalja.resources
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Lidija.LIDIJA-PC\Desktop\Projekt_završno\Izlaz\22.06. Završna_ Novo_VIES SUSTAV_code 21.06.2014\VIES SUSTAV\VIES SUSTAV\obj\x86\Debug\GenerateResource.write.1.tlog
